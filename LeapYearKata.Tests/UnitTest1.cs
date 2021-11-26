@@ -23,7 +23,7 @@ namespace LeapYearKata.Tests
         }
         
         [Fact]
-        public void Year2022IsLeapYear()
+        public void Year2022IsNotLeapYear()
         {
             string actual = LeapYearChecker.LeapYear(2022);
             
@@ -31,7 +31,7 @@ namespace LeapYearKata.Tests
         }
 
         [Fact]
-        public void Year2023IsLeapYear()
+        public void Year2023IsNotLeapYear()
         {
             string actual = LeapYearChecker.LeapYear(2023);
             
