@@ -1,0 +1,16 @@
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\obj\Debug\net5.0\LeapYearKata.csproj.AssemblyReference.cache
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\obj\Debug\net5.0\LeapYearKata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\obj\Debug\net5.0\LeapYearKata.AssemblyInfoInputs.cache
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\obj\Debug\net5.0\LeapYearKata.AssemblyInfo.cs
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\obj\Debug\net5.0\LeapYearKata.csproj.CoreCompileInputs.cache
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\bin\Debug\net5.0\LeapYearKata.exe
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\bin\Debug\net5.0\LeapYearKata.deps.json
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\bin\Debug\net5.0\LeapYearKata.runtimeconfig.json
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\bin\Debug\net5.0\LeapYearKata.runtimeconfig.dev.json
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\bin\Debug\net5.0\LeapYearKata.dll
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\bin\Debug\net5.0\ref\LeapYearKata.dll
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\bin\Debug\net5.0\LeapYearKata.pdb
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\obj\Debug\net5.0\LeapYearKata.dll
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\obj\Debug\net5.0\ref\LeapYearKata.dll
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\obj\Debug\net5.0\LeapYearKata.pdb
+D:\Users\vkovaleva\RiderProjects\LeapYearKata\LeapYearKata\obj\Debug\net5.0\LeapYearKata.genruntimeconfig.cache
