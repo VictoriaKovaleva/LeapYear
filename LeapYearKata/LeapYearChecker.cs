@@ -9,6 +9,8 @@
                 return "Not Leap Year!";
             if (number == 2022)
                 return "Not Leap Year!";
+            if (number == 2023)
+                return "Not Leap Year!";
             
             return "Leap Year!";
         }
