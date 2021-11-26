@@ -21,5 +21,14 @@ namespace LeapYearKata.Tests
             
             Assert.Equal("Not Leap Year!", actual);
         }
+        
+        [Fact]
+        public void Year2022IsLeapYear()
+        {
+            string actual = LeapYearChecker.LeapYear(2022);
+            
+            Assert.Equal("Not Leap Year!", actual);
+        }
+
     }
 }
