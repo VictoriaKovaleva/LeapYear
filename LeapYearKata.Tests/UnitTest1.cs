@@ -6,6 +6,7 @@ namespace LeapYearKata.Tests
 {
     public class LeapYearTests
     {
+
         [Fact]
         public void Year2020IsLeapYear()
         {
