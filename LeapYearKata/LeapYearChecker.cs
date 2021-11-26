@@ -5,11 +5,7 @@
         static void Main(string[] args) { }
         public static string LeapYear(int number)
         {
-            if (number == 2021)
-                return "Not Leap Year!";
-            if (number == 2022)
-                return "Not Leap Year!";
-            if (number == 2023)
+            if (number != 2020)
                 return "Not Leap Year!";
             
             return "Leap Year!";
