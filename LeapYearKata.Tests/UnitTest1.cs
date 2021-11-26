@@ -7,45 +7,17 @@ namespace LeapYearKata.Tests
     public class LeapYearTests
     {
 
-        [Fact]
-        public void Year2020IsLeapYear()
+        [Theory]
+        [InlineData(2020, "Leap Year!")]
+        [InlineData(2021, "Not Leap Year!")]
+        [InlineData(2022, "Not Leap Year!")]
+        [InlineData(2023, "Not Leap Year!")]
+        [InlineData(2024, "Leap Year!")]
+        public void YearIsLeapOrNotLeapYear(int year, string expected)
         {
-            string actual = LeapYearChecker.LeapYear(2020);
+            string actual = LeapYearChecker.LeapYear(year);
             
-            Assert.Equal("Leap Year!", actual);
+            Assert.Equal(expected, actual);
         }
-
-        [Fact]
-        public void Year2021IsNotLeapYear()
-        {
-            string actual = LeapYearChecker.LeapYear(2021);
-            
-            Assert.Equal("Not Leap Year!", actual);
-        }
-        
-        [Fact]
-        public void Year2022IsNotLeapYear()
-        {
-            string actual = LeapYearChecker.LeapYear(2022);
-            
-            Assert.Equal("Not Leap Year!", actual);
-        }
-
-        [Fact]
-        public void Year2023IsNotLeapYear()
-        {
-            string actual = LeapYearChecker.LeapYear(2023);
-            
-            Assert.Equal("Not Leap Year!", actual);
-        }
-        
-        [Fact]
-        public void Year2024IsLeapYear()
-        {
-            string actual = LeapYearChecker.LeapYear(2024);
-            
-            Assert.Equal("Leap Year!", actual);
-        }
-
     }
 }
